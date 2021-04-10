@@ -1,0 +1,14 @@
+# full_bq_aquaris_m8-user 6.0 MRA58K 1537280832 release-keys
+- manufacturer: bq
+- platform: mt8163
+- codename: Aquaris_M8
+- flavor: full_bq_aquaris_m8-user
+- release: 6.0
+- id: MRA58K
+- incremental: 1537280832
+- tags: release-keys
+- fingerprint: bq/Aquaris_M8/Aquaris_M8:6.0/MRA58K/1537280831:user/release-keys
+- is_ab: false
+- brand: bq
+- branch: full_bq_aquaris_m8-user-6.0-MRA58K-1537280832-release-keys
+- repo: bq_aquaris_m8_dump
