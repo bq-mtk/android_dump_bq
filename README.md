@@ -1,0 +1,14 @@
+# full_bq_aquaris_m10_FHD-user 6.0 MRA58K 1516959575 release-keys
+- manufacturer: bq
+- platform: mt8163
+- codename: Aquaris_M10_FHD
+- flavor: full_bq_aquaris_m10_FHD-user
+- release: 6.0
+- id: MRA58K
+- incremental: 1516959575
+- tags: release-keys
+- fingerprint: bq/Aquaris_M10_FHD/Aquaris_M10_FHD:6.0/MRA58K/1516959575:user/release-keys
+- is_ab: false
+- brand: bq
+- branch: full_bq_aquaris_m10_FHD-user-6.0-MRA58K-1516959575-release-keys
+- repo: bq_aquaris_m10_fhd_dump
