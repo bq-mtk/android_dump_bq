@@ -1,0 +1,14 @@
+# full_bq_aquaris_m10-user 8.1.0 O11019 1546079538 release-keys
+- manufacturer: bq
+- platform: mt8163
+- codename: Aquaris_M10
+- flavor: full_bq_aquaris_m10-user
+- release: 8.1.0
+- id: O11019
+- incremental: 1546957829
+- tags: release-keys
+- fingerprint: bq/Aquaris_M10/Aquaris_M10:8.1.0/O11019/1546079533:user/release-keys
+- is_ab: false
+- brand: bq
+- branch: full_bq_aquaris_m10-user-8.1.0-O11019-1546079538-release-keys
+- repo: bq_aquaris_m10_dump
